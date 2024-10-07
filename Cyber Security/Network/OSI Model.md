@@ -1,0 +1,1 @@
+The Open Systems Interconnection model is a 7 layer model that describes how a computer communicates over a network.

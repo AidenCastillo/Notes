@@ -1,0 +1,1 @@
+![[Drawing derivative.excalidraw]]

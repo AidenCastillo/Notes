@@ -1,0 +1,1 @@
+Ports are where network connections start and end. Each port has a unique number or identity because they each have a different purpose or service. 
