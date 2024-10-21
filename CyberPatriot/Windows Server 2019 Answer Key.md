@@ -289,6 +289,22 @@ Removing unauthorized software from your system is important for limiting your r
 your attack surface. Unauthorized programs may leak confidential information, interfere with
 business-critical software and services, contain various malware and security vulnerabilities, or
 could introduce unwanted legal and regulatory issues.
+
+19) Remote Assistance connections have been disabled: 5 pts. • How do I find this problem? Disabling unnecessary features, especially those allowing remote connections to your computer is an import cyber security principle. • How do I solve this problem? Press the Windows key + R to open the Run dialog. In the Run dialog type sysdm.cpl and press Enter to open System Properties. Click on Remote, then uncheck Allow Remote Assistance connections to this computer, the click OK.
+15) Do not allow anonymous enumeration of SAM accounts [enabled]: 4 pts.
+• How do I find this problem?
+Enforcing industry recommended security options is good cybersecurity practice.
+• How do I solve this problem?
+Press the Windows key + R to open the Run dialog. In the Run dialog type secpol.msc and press Enter to
+open the Local Security Policy. Navigate to Security Settings → Local Policies → Security Options. Double click
+on Network access: Do not allow anonymous enumeration of SAM accounts. Set the setting to Enabled and
+click OK.
+• Why is fixing this problem important?
+This security option restricts additional permissions granted for anonymous connections to this machine. When
+this setting is enabled, anonymous users may not list account names which could then be used for social
+engineering attacks or password guessing.
+
+
 Penalties
 1) Account lockout policy less than 5 is deprecated: -4 pts.
 • Why is this a penalty?
@@ -303,3 +319,4 @@ The README states that Remote Desktop is a critical service.
 3) Firefox is not installed at the default location: -5 pts.
 • Why is this a penalty?
 The README states that Firefox is required software.
+

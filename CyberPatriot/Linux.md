@@ -48,3 +48,9 @@ Change PermitRootLogin to `no`
 turn off in services
 Vulnerable
 
+Find out all files that are not owned by any user:
+Type the following command:
+find / -nouser
+
+These commands are useful if you deleted a user account and wish to list those files. Pass the -ls to list them:
+find / -uid 1000 -ls
