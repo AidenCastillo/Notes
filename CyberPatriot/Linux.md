@@ -35,8 +35,8 @@ for sudo change group to sudo
  only remove nullok so null passwords dont work
 
 ## Update check if services are running
-UFW fire wall `sudo ufw status
-If off `sudo ufw enable
+UFW fire wall `sudo ufw status`
+If off, sudo ufw enable
 
 check services by running `systemctl list-units --type=service --state=active`
 Disable by running `systemctl disable <service>` and `systemctl stop <service>
