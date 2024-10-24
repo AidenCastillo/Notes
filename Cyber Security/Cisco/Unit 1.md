@@ -19,3 +19,5 @@ Intranet is term used to prefer to private connections of LAN and WANs belonging
 ExtraNet provides secure and safe access to individuals who work for different organizations but require access to organization data. Used when company is providing access to touside suppliers and contractors, hospitals that provide booking system for doctors to make appointments for patients, local office of education that is prodiving budget and personal informaiton to school in district
 # Internet Connections
 Digial subscruber lines DSL provide high bandwidth, high avialablility, always on connection  to inetenre.t RUn over telephone line, used in small offices and home office users connected to asymmetric DSL.
+
+# Businesses Internet Connections
