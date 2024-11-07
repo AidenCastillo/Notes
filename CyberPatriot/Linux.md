@@ -54,3 +54,50 @@ find / -nouser
 
 These commands are useful if you deleted a user account and wish to list those files. Pass the -ls to list them:
 find / -uid 1000 -ls
+
+## Remove netcat backdoor
+type in sudo ss -tlnp
+Make sure no ports are listening to any low port numbers (1-7) in Send-Q
+edit /etc/crontab remove the line containing the malicious process
+sudo pkill -f <process> 
+sudo rm /usr/bin/<process
+
+## Insecure peremissions on shadow file fixed
+To see permisions of shadow file type
+ls -alF /etc/shadow
+File may show as world readable
+-rw-r--r-- 1 root shadow 4386
+type sudo chmod 640 /etc/shadow 
+to remove all world permissions from shadow file
+
+## IPv4 TCP SYN cookies have been enabled
+edit /etc/sysctl.conf
+Change net.ipv4.tcp_syncookies=0 to net.ipv4.tcp_syncookies=1
+save file and type sudo sysctl --system to allow settings
+
+## IPv4 forwarding has been disabled
+in /etc/sysctl.conf
+change net.ipv4.ip_forward=1
+to net.ipv4.ip_forward=0
+
+## Account lockout policy is configured
+sudo touch /usr/share/pam-configs/faillock
+edit the file
+place 
+`Name: Enforce failed login attempt counter
+Default: no
+Priority: 0
+Auth-Type: Primary
+Auth:
+ [default=die] pam_faillock.so authfail
+ sufficient pam_faillock.so authsucc
+ `
+Create anotoher filel /usr/share/pam-configs/faillock_notify
+`Name: Notify on failed login attempts
+Default: no
+Priority: 1024
+Auth-Type: Primary
+Auth:
+ requisite pam_faillock.so preauth
+ `
+type sudo pam-auth-update and select Notify on failed login attemps and Enforce failed login attempt counter
