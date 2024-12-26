@@ -54,3 +54,8 @@ find / -nouser
 
 These commands are useful if you deleted a user account and wish to list those files. Pass the -ls to list them:
 find / -uid 1000 -ls
+
+
+wireshark remmina ophcrack aisleriot solitaire mahjong mines sudoku
+sudo systemctl disable --now nginx
+sudo systemctl disable -- vsftpd
