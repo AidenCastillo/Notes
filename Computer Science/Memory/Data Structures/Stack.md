@@ -6,7 +6,7 @@ notionID: 03546a75-36f8-4bbb-970b-b5626e86cff4
 
 ![[Memory Stack Drawing]]
 
-Grow from the highest [[Memory]] location and moves toward lower [[Memory]] locations. 
+Grow from the highest [[Memory Leak]] location and moves toward lower [[Memory Leak]] locations. 
 
 ## Issues
 [[Stack Overflow (Issue)]]
