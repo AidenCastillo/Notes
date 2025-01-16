@@ -55,6 +55,12 @@ find / -nouser
 These commands are useful if you deleted a user account and wish to list those files. Pass the -ls to list them:
 find / -uid 1000 -ls
 
+<<<<<<< HEAD
+
+wireshark remmina ophcrack aisleriot solitaire mahjong mines sudoku
+sudo systemctl disable --now nginx
+sudo systemctl disable -- vsftpd
+=======
 ## Remove netcat backdoor
 type in sudo ss -tlnp
 Make sure no ports are listening to any low port numbers (1-7) in Send-Q
@@ -101,3 +107,4 @@ Auth:
  requisite pam_faillock.so preauth
  `
 type sudo pam-auth-update and select Notify on failed login attemps and Enforce failed login attempt counter
+>>>>>>> origin/master

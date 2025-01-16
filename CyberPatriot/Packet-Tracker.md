@@ -1,6 +1,7 @@
 # Router
 First do `enable` and `config terminal`
 ### Set Banner
+Banner is important for legal side for declaring that only authorized personnel should access the device.
 * `banner motd "message"`
 ### Set Hostname
 * `hostname <name>`
@@ -12,10 +13,21 @@ First do `enable` and `config terminal`
 ### Set Line Passwords (vty)
 * `line vty 0 15
 * `password <password>
-* `login
+* `login` Enables vty access using login
 * `do copy run start
 ### Enable Secret
+Adds verification before enabling EXEC mode
 * `enable secret <password>
+### Encrypte all plaintext passwirds
+* `service password-encryption
+### Verify settings
+* `show running-config`
+## Configurations
+startup-config is config file that stores commands that will be used on device startup or reboot. Flash does not lose its content when device is powered off
+Running-config is random access memory and is current configuration. Modifying a running config affects operation of device immediately. RAM is volatile, loses all its content when powered off
+`show running-config`
+`reload` will restore commads to startupconfig
+startup config removed with `erase startup-config`
 ### Startup Config
 * `do copy run start
 ## Ports
@@ -60,7 +72,7 @@ To create two subnets with the requirements in Cisco Packet Tracer, you need to 
 - **Sub-interface for Subnet 2**:
     - Assign `192.168.1.65` with a subnet mask of `255.255.255.192` for the default gateway.
     - Command:
-        
+	        
         bash
         
         Copy code
@@ -140,3 +152,8 @@ First do `enable` and `config terminal`
 * Change `IPv4 Address` to connected switches with last number incremented by 1
 * Change subnet to specified in directions
 * `Default Gateway` to router ip address
+
+## Vlan
+Allows for seperation on network. Virutual LANS
+![[Pasted image 20241116012451.png]]
+![[Pasted image 20241116012517.png]]

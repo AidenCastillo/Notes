@@ -83,3 +83,5 @@ foreach ($service in $unauthorizedServices) {
     }
 }
 
+# Check if each user has password
+
