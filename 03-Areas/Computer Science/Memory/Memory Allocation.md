@@ -80,7 +80,7 @@ Programs memory is divided into several regions all with specific purposes
 	* Occurs when dynamically allocated memory is not freed.
 	* Leads to gradual exhaustion of available memory.
 * Dangling Pointers
-	* Occurs when a [pointer](Computer%20Science/Languages/c++/Pointers) references memory that has been freed.
+	* Occurs when a [pointer](Pointers.md) references memory that has been freed.
 * Double Free
 	* Happens when `free()` is called on the same memory block.
 * [[Buffer Overflow]]

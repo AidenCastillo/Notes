@@ -1,4 +1,4 @@
-World wide cyberattack in May 2017. The [ransomware](Ransomware.md) [cryptoworm](Cryptoworm) targeted [[Windows]] by encrypting files and data on the victims machine and ransoming payments through [[Bitcoin]]. 
+World wide cyberattack in May 2017. The [ransomware](Ransomware.md) [cryptoworm](Cryptoworm.md) targeted [[Windows]] by encrypting files and data on the victims machine and ransoming payments through [[Bitcoin]]. 
 
 ## How Did it Work
 The ransomware used a exploit called [EternalBlue] which is a [[SMB]] [[exploit]] and is similar to [[DoublePulsar]]. It spread by searching the network for other vulnerable systems to copy its code to and execute over and over.

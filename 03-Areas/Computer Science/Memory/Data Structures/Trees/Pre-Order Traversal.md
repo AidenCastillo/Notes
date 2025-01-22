@@ -1,4 +1,4 @@
-Type of [[tree]] traversal that follow the Root-Left-Right policy
+Type of [[Tree]] traversal that follow the Root-Left-Right policy
 * Root node of subtree visited first.
 * Left subtree is traversed
 * Right subtree is traversed

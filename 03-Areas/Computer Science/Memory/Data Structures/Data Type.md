@@ -1,4 +1,4 @@
-Data types are data values in [memory](Memory) with constraints of possible values for each type. Depending on what type is defined, the values can change from characters to integers, [[Floating-point]] numbers, or Booleans.  The defining of a data type is to give the [[Compiler]] context on what the programmer intended the data to be used for.
+Data types are data values in [memory](Memory.md) with constraints of possible values for each type. Depending on what type is defined, the values can change from characters to integers, [[Floating-point]] numbers, or Booleans.  The defining of a data type is to give the [[Compiler]] context on what the programmer intended the data to be used for.
 
 Most languages allow for programmers to create new data types that aren't originally in the languages data type list. Example of this could be three [[byte]] color codes for red, blue, and green.
 
@@ -18,4 +18,4 @@ In some languages such as [[Python]], data types are arbitrary or not required b
 * [[Pointers]]
 * [[Function Type]]
 * [[Meta Type]]
-* [[Array]]
+* [[array]]
