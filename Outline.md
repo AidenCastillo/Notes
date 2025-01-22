@@ -20,7 +20,7 @@
 - [ ]  Game Development
 - [ ]  Cryptography
 - [ ]  HCI (Human-Computer Interaction)
-
+2\cos ^2\left(x\right)-\sqrt{3}\cos \left(x\right)=0,\:0^{\circ \:}<\:x<\:360^{\circ \:}
 ## Cyber Security
 
 - [ ] **Cybersecurity Basics**
