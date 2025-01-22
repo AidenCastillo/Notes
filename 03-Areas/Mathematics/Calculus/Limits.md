@@ -34,7 +34,8 @@ Assume that $\lim_{x->a}f(x)$ and $\lim_{ x \to a }g(x)$ exist and that c is any
 Suppose $g(x) \leq f(x)\leq h(x)$ for all $x$ close to $a$, except perhaps for $x=a$. If $$\lim_{ x \to a } g(x)=\lim_{ x \to a } h(x)=L$$then $$\lim_{ x \to a } f(x) = L$$The idea here is that the function f(x) is squeezed between two other functions having the same limit $L$.
 ![[Drawing Squeeze Theorem.excalidraw]]
 As $g(x)$ and $h(x)$ get closer together and the distance between their value decrease at point $a$, we are able to determine the limit of $f(x)$ as long as $g(x) <= f(x) <= h(x)$ remains true. $f(x)$ must remain between the two other functions, being  *SQUEEZED TOGETHER*.
-
+## Types of Limits
+![[Types of limits 2025-01-22 01.20.00.excalidraw]]
 
 ### Problems
 1. Given $\lim_{ x \to 8 }f(x) = -9$, $\lim_{ x \to 8 }g(x) = 2$, and $\lim_{ x \to 8 }h(x) = 4$ use the limit properties given in this section to compute each of the following limits. If it is not possible to compute any of the limits clearly explain why not.
