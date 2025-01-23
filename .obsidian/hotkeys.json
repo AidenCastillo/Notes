@@ -1,0 +1,11 @@
+{
+  "obsidian-to-notion:share-to-notion": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ]
+}

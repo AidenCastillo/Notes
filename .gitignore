@@ -1,9 +1,1 @@
-# Ignore all .obsidian files by default
-.obsidian/*
-
-# But include specific settings files
-!.obsidian/core.json
-!.obsidian/community-plugins.json
-!.obsidian/appearance.json
-
 .trash

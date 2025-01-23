@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "9eca7d1f3b115b21",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc41c9307826f254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f01a52966be82b0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53c75bc5b4647c37",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cddf5700ddb2a60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "448de31711cb120b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8331de360d5e88ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dbaa7205a25ed3a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0447883afe0388c",
+    "type": "split",
+    "children": [
+      {
+        "id": "610ad7451b0796a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b4f92f90cfb57ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5d13ed01a55385ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ec933a6e9cb348d1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c201f31fdf5c6b73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "readme.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of readme"
+            }
+          },
+          {
+            "id": "ffc10ac21612040b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "5916c8c22017008a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6614242e5e633c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "448de31711cb120b",
+  "lastOpenFiles": [
+    "Excalidraw/Types of limits 2025-01-22 01.20.00.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-22 01.32.45.excalidraw.md",
+    "02-Projects/NoteOwl/Planning 2024-12-29 21.19.29.excalidraw 1.md",
+    "README.md",
+    "03-Areas/Mathematics/Calculus/README.md",
+    "readme.md",
+    "Outline.md",
+    "03-Areas/Mathematics/Calculus/Limits.md",
+    "Resources/Cheat_Sheets.md",
+    "Resources",
+    "03-Areas/Mathematics/Calculus/Basics",
+    "Basics/Integrals.md",
+    "Basics",
+    "05-Fleeting",
+    "99-Meta",
+    "06-Dailys",
+    "04-Resources",
+    "02-Projects/NoteOwl/CalcCore.md",
+    "03-Areas",
+    "01-Maps Of Content",
+    "03-Areas/Algorithms/Shunting Yard.md",
+    "02-Projects/NoteOwl/NoteOwl.md",
+    "[[Planning 2024-12-29 21.19.29.excalidraw.md",
+    "02-Projects/NoteOwl/Planning 2024-12-29 21.19.29.excalidraw.md",
+    "03-Areas/Mathematics/Calculus/Differentials.md",
+    "03-Areas/Mathematics/Calculus/Derivatives.md",
+    "03-Areas/Mathematics/Calculus/Squeeze theorem 2024-12-27 15.34.02.excalidraw.md",
+    "To Do.md",
+    "02-Projects/NoteOwl",
+    "03-Areas/Mathematics/Calculus/Drawing 2024-12-28 02.46.11.excalidraw.md",
+    "03-Areas/Cyber Security/Malware Analysis.md",
+    "Excalidraw/The Dead Notes 2025-01-15 23.27.24.excalidraw.md",
+    "03-Areas/Computer Science/Memory/Memory Allocation.md",
+    "03-Areas/Computer Science/Languages/c++/C++.md",
+    "Computer Science/Languages/c++/Pointer.md",
+    "03-Areas/Computer Science/Languages/c++/Pointers.md",
+    "Excalidraw/Pasted image 20241116012517.png",
+    "Excalidraw/Pasted image 20241116012451.png",
+    "Untitled.canvas"
+  ]
+}
