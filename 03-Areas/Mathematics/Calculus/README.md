@@ -42,7 +42,7 @@ Welcome to the Calculus Notes Repository! This is your go-to resource for learni
 
 ### Derivatives
 - [Basic Derivative Rules](./Basics/Derivatives.md#basic-derivative-rules)
-- [Product and Quotient Rules](./Basics/Derivatives.md#product-and-quotient-rules)
+- [Product and Quotient Rules](./Derivatives.md#product-and-quotient-rules)
 - [Chain Rule](./Basics/Derivatives.md#chain-rule)
 - [Applications of Derivatives](./Advanced/Applications_of_Derivatives.md)
 
