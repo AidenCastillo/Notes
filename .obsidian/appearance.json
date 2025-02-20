@@ -1,5 +1,9 @@
 {
   "accentColor": "",
   "translucency": false,
-  "showRibbon": true
+  "showRibbon": true,
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
 }
