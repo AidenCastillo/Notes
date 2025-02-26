@@ -1,4 +1,7 @@
 #flashcards/Government/Amendments
+**14th Amendment**
+?
+constitutional amendment asserting that persons born in the US are citizens and prohibits states from denying persons due process or equal protection under the law
 **19th Amendment**
 ?
 Gave women the right to vote
@@ -155,7 +158,7 @@ Clarence Gideon was charged with a felony but could not afford an attorney. Flor
 
 **Roe v. Wade (1973)**
 ?
-A Texas woman, "Jane Roe," wanted an abortion, but Texas law prohibited it unless the mother’s life was in danger. The Supreme Court ruled that abortion was protected under the _Right to Privacy_ implied in the 14th Amendment.
+A Texas woman, "Jane Roe," wanted an abortion, but Texas law prohibited it unless the mother’s life was in danger. The Supreme Court ruled that abortion was protected under the _Right to Privacy_ implied in the 14th Amendment. Due process clause implies right to privacy.
 <!--SR:!2025-02-26,2,243-->
 
 **New York Times v. United States (1971)**
@@ -194,7 +197,7 @@ Speech that presents an immediate danger to society can be restricted (_Schenck 
 
 **Equal Protection Clause**
 ?
-The government cannot treat people unequally under the law (_Brown v. Board of Education_).
+The government cannot treat people unequally under the law. 14th Amendment requires states to treat all citizens equally regardless to application of law. (_Brown v. Board of Education_).
 <!--SR:!2025-02-27,3,263-->
 
 **Establishment Clause**
@@ -251,6 +254,9 @@ The right of government to take private property for public use
 **Civil Liberties**
 ?
 Protect Citizens from government actions
+**Civil Rights**
+?
+Protect individuals from discrimination
 
 **De Facto Segregation**
 ?
@@ -284,6 +290,38 @@ prohibits discrimination on the basis of race, color, religion, sex or national 
 ?
 the separation of individuals based on their characteristics, such as race, intentionally and by law
 
-Citizenship Clause
+**Citizenship Clause**
 ?
 All people born in the US are citizens of the US.
+
+**Due Process Clause**
+?
+14th Amendment clause stating that no state may deprive a person of life, liberty, or property without legal safeguards
+
+**Writ of Habeas Corpus**
+?
+protects against unlawful and indefinite imprisonment
+
+**Indictment**
+?
+A formal written statement from a grand jury charging an individual with an offense
+
+**Heightened Scrutiny**
+?
+Making things easier or more fair for women
+
+**Political Socialization**
+?
+the process by which people gain their political attitudes and opinions
+
+**Grandfather Clause**
+?
+A clause exempting certain classes of people or things from the requirement of a piece of legislation affecting their previous rights, privileges, or practices.
+
+**Ex Post Facto Law**
+?
+A law that stops the government from punishing people for acts that were not crimes at the time that they were committing them.
+
+**Affirmative Action**
+?
+A policy designed to address the consequences of previous discrimination by providing special consideration to individuals based upon their characteristics, such as race or gender.
