@@ -1,4 +1,10 @@
-
+#flashcards/Government/Amendments
+**19th Amendment**
+?
+Gave women the right to vote
+**24th Amendment**
+?
+Abolished poll tax
 ## Unit 2
 #flashcards/Government/two
 ### Supreme Court Cases
@@ -225,3 +231,59 @@ The government cannot prevent the press from publishing information unless it th
 ?
 The process by which the Supreme Court applies parts of the Bill of Rights to the states using the 14th Amendment (_McDonald v. Chicago_).
 <!--SR:!2025-02-25,1,223-->
+
+**Strict Scrutiny**
+?
+Can't discriminate groups that have been historically discriminated
+
+**Exclusionary Rule**
+?
+Improperly gathered evidence may not be introduced in a criminal trial
+
+**Libel**
+?
+Written defamation
+
+**Eminent Domain**
+?
+The right of government to take private property for public use
+
+**Civil Liberties**
+?
+Protect Citizens from government actions
+
+**De Facto Segregation**
+?
+A separation of individuals based on characteristics that arises not by law but because other factors, such as residential housing patterns
+
+**Letter from a Birmingham Jail**
+?
+An open letter written by Dr. Martin Luther King, Jr. that provides a detailed explanation of King's approach to nonviolent resistance
+
+**Good Faith Exception**
+?
+An exception to the Supreme Court exclusionary rule, holding that evidence seized on the basis of a mistakenly issued search warrant can be introduced at trial if the mistake was made in good faith, that is, if all the parties involved had reason at the time to believe that the warrant was proper.
+
+**American Disabilities Act of 1990**
+?
+A law passed in 1990 that requires employers and public facilities to make "reasonable accommodations" for people with disabilities and prohibits discrimination against these individuals in employment.
+
+**Preferred Position**
+?
+A law passed in 1990 that requires employers and public facilities to make "reasonable accommodations" for people with disabilities and prohibits discrimination against these individuals in employment.
+
+**Grand Jury**
+?
+A group of citizens that decides whether there is sufficient evidence to accuse someone of a crime.
+
+**Civil Rights Act of 1964**
+?
+prohibits discrimination on the basis of race, color, religion, sex or national origin
+
+**De Jure Segregation**
+?
+the separation of individuals based on their characteristics, such as race, intentionally and by law
+
+Citizenship Clause
+?
+All people born in the US are citizens of the US.
