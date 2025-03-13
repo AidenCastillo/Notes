@@ -1,13 +1,36 @@
 Also known as the anti derivative, we can use the Integral to find area under a curve or the continuous analog of a sum. We can use it to find values suc as displacement from velocity, and any other programs in math or physics
 ### Quick Reference
 
-## Definite Integral
-
 ## Indefinite Integral
+What is typically known as the antiderivative or reverse process of differentiation. 
+$$
+\int f(x)dx = F(x) + C \text{, c is a abituary constant}
+$$
+The $\int$ sign is the integral symbol, $f(x)$ is our integrant, x is our integration variable and "c" is the constant of integration
+ex.
+$$
+\int {x^4+3x-9}dx = \frac{1}{5}x^5+\frac{3}{2}x^2-9x+c
+$$
+## Definite Integral
+The definite integral is similar to the integral, but we have a bound that we can use to calculate the area under the curve by dividing the interval into n subintervals of equal width.
+$$
+\int_{a}^{b}{f(x)dx}=\lim_{ n \to \infty } \sum_{i=1}^{n}{f(x)}\nabla x
+$$
+Using the net change theorem, we are able to find the value under the curve very quickly by the formula below
+$$
+\int_{a}^{b}{f^`(x)dx}=f(b)-f(a)
+$$
+$$
+\int_{t_{1}}^{t_{2}}{v^`(x)dt}=v(t_{2})-v(t_{1})
+$$
+This will only give us the displacement if v is a velocity formula, it **WILL NOT** give us the total distance traveled. To get that value we must do 
+$$
+\int_{t_{1}}^{t_{2}}{|v(x)|}dt
+$$
 
-## Substitution Rule
-
-## Integrate by Parts
+# Methods of solving
+* [Substitution](./Integration%20by%20Substitution)
+* Integrate by Parts
 
 
 ## Derivative of Integral

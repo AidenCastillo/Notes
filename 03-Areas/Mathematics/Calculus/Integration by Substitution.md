@@ -1,4 +1,4 @@
-[Integration](./Integrals) when it is single functions is very simple, but once we start adding multiple functions, difficulty increases rapidly. When integerating composite function, we are reversing the Chain Rule.
+[Integration](./Integrals) when it is single functions is very simple, but once we start adding multiple functions, difficulty increases rapidly. When integrating composite function, we are reversing the Chain Rule.
 $$
 \int u^ndx = \frac{u^{n+1}}{n+1} + C
 $$
