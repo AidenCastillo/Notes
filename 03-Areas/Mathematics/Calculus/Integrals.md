@@ -31,6 +31,8 @@ $$
 # Methods of solving
 * [Substitution](./Integration%20by%20Substitution)
 * Integrate by Parts
+- Integration by partial fractions
+- improper integral
 
 
 ## Derivative of Integral

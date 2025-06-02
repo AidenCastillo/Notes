@@ -1,0 +1,13 @@
+# Things to Review
+- Series and convergence
+- implicit differenciation
+- improper integrals
+- Polar functions (area between curves)
+- Polar Derivatives
+- Integration by parts
+- Washer method
+- parametrics
+- Maclaurin series
+- Slope fields
+- Logisitcal model 
+- Differencial equiations!!!

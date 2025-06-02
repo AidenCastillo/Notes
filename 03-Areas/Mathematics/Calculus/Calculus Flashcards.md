@@ -49,6 +49,18 @@ $$
 ?  
 Differentiate both sides of an equation with respect to $$ x $$, treating $$ y $$ as a function of $$ x $$ and applying the chain rule.  
 
+**Intervals of Increase and Decrease**
+?
+- Take derivative of function
+- set it equal to zero to find your critical numbers
+- Plug in number above the critical number and below the critical number to find the sign of derivative, right before and after.
+
+
+**Concavity**
+?
+- If second derivative is positive the function is concave up
+- If second derivative is negative the function is concave down
+
 **Logarithmic Differentiation**  
 ?  
 Take the natural logarithm of both sides and then differentiate:  
@@ -101,6 +113,51 @@ $$ \frac{1}{x} $$
 $$ \frac{1}{x \ln a} $$  
 
 ---
+#flashcards/Calculus/Geometry
+# Geometry
+
+**Volume of a Cone**
+?
+$$V=\frac{1}{3}\pi r^2 h$$
+
+**Surface Area of Cone**
+?
+$$S=\pi r \sqrt{r^2+h^2} + \pi r^2$$
+
+**Volume of a Sphere**
+?
+$$V=\frac{4}{3}\pi r^3$$
+
+**Volume of a Cylinder**
+?
+$$V=\pi r^2 h$$
+
+**Volume of a Torus**
+?
+$$V=2\pi^2 r^2 R$$
+With R being radius to middle of donut to middle of ring, and r, being from middle of ring to edge
+
+**Volume of a Cube**
+?
+$$V=lwh$$
+
+**Volume of a Pyramid**
+?
+$$V=\frac{1}{3}s^2 h$$
+
+**Volume of a Triangluar Prism**
+?
+$$V=\frac{1}{2}b h$$
+
+**Area of a Circle**
+?
+$$A=\pi r^2$$
+
+
+
+
+---
+
 #flashcards/Calculus/Integrals
 ### **Integrals**  
 
@@ -157,6 +214,13 @@ $$\sec x + C$$
 **$$ \int \csc x \cot x dx $$**  
 ?  
 $$-\csc x + C$$  
+**Disk Method Integration**
+?
+- $V=\pi \int_{a}^{b}{[R(x)]^2dx}$
+- We get a 2d shape from the area under the curve and if we rotate this shape, we get a 3d object
+- to find area we integrate the volume formula, or add up tiny individual pieces of area slices or disks. Pear slices
+- Can combine between two curves called washer method and subtract the two 
+
 
 ---
 #flashcards/Calculus/Theorems
@@ -183,6 +247,16 @@ $$
 ---
 #flashcards/Calculus/Series
 ### **Series and Sequences**  
+**nth Term Test**
+?
+- If $\lim_{n}{a_n}!=0$ or does not exist -> diverge
+- if = 0 inconclusive (need another test)
+
+**Geometric Series**
+?
+- Form a + ar + ar^2
+- converges if abs(r) < 1, diveres if >= 1
+- Sum if convergent: S = a_1 / (1 -r 1)
 
 **Taylor Series Expansion**  
 ?  
@@ -212,7 +286,60 @@ $$
 ?  
 $$
 \lim_{n \to \infty} \left| \frac{a_{n+1}}{a_n} \right| < 1
-$$  
+$$
+
+**P-Series**
+?
+- Form $\sum{\frac{1}{n^p}}$
+- Converges if P > 1, Divges if p $<=$ 1
+
+**Integral Test**
+?
+- If f(x) positive, continuous, and decreasing
+- $\sum{a_n}$ and $\int{f(x)dx}$ both converge or diverge
+- Find the integral of f(x) and see if it converges to a real number
+
+**Comparison Test**
+?
+- Compare with known series (like $1/n^p$)
+- If $0 <= a_n <= b_n$
+- Then $\sum{b_n}$ converges so does $\sum{a_n}$
+- $\sum{a_n}$ diverges so does $\sum{b_n}$
+
+**Limit Comparison Test**
+?
+- If $a_n > 0, b_n > 0$ and $\lim_{n \to \infty} \frac{a_n}{b_n}=L$ (0 < L < $\infty$), then both series diverge or converge
+
+**Alternating Series Test (Leibniz Test)**
+?
+- Form $(-1)^n b_n$ or $(-1)^{n+1} b_n$, where $b_n>0$
+- Converges if $b_n$ decreasing and $\lim_{n \to \infty} b_n=0$
+
+**Absolute vs Conditional Convergence**
+?
+- Absolute convergence - $\sum{|a_n|}$ diverges
+- Conditional - $\sum{a_n}$ converges but $\sum{|a_n|}$ diverges
+
+**Ratio Test**
+?
+- $\lim_{n \to \infty} |\frac{a_(n+1)}{a_n}|=L$
+- If L < 1, converges absolutely, L > 1 or $\infty$ diverges. L=1, inconclusive
+
+**Root Test**
+?
+- $\lim_{n \to \infty} \sqrt[n]{|a_n|}=L$, L<1 converges absolutely, L > 1 diverges, L=1 inconclusive
+
+**Power Series**
+- $\sum_{n=0}^{\infty}{C_n(x-a)^n}$
+- Series converges when |x-a| < interval of converges
+- Interval of convergence - vals near x where series converges
+- Test converges at end points seperately
+
+**Alternating Series Error bound**
+- When summing an alternating series with finite number of tersm, the sum will not be the same as the sum with an infinite number
+- To find the error, we evaluate $|S-S_n|$
+- Can place a bound on the error: a number that the error is less than, which is the absolute value of the next term in alternating series
+- If summing 10 terms, the error will be less than the absolute value of the eleventh term
 
 ---
 #flashcards/Calculus/Parametric
