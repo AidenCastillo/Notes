@@ -6,3 +6,4 @@ When adding or subtracting use only the amount common in both
 # Unit Conversion
 ![[conversion_tables.v2.pdf]]
 
+![[Foundations 2025-09-04 20.42.50.excalidraw]]
