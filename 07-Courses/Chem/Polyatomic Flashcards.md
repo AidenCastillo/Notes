@@ -1,3 +1,8 @@
+---
+aliases:
+dg-publish: true
+---
+
 Group 17 has family of 4 (halogens)
 
 | Name                     | Formula | Charge | Oxygen Series / Notes | Memory Tip                                               |

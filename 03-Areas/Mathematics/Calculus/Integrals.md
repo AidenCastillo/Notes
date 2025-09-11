@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 Also known as the anti derivative, we can use the Integral to find area under a curve or the continuous analog of a sum. We can use it to find values suc as displacement from velocity, and any other programs in math or physics
 ### Quick Reference
 

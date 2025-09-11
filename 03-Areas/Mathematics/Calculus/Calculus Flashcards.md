@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 #flashcards/Calculus/Derivatives
 ### **Derivatives**  
 
