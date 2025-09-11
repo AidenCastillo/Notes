@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 Numerical technique for solving differential equations by using linear approxmiations to estimate the value of a function at specfic points.
 
 1. Start with initial point and diff equation that gives the slope

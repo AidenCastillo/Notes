@@ -61,3 +61,4 @@ Your enthymeme must be in the correct, assigned formate or the entire logos/logi
 Pathos - emotional appeal. Required. Always use pathos for your side as it can be the most persuasive. Hypotheticals.
 Ethos - how you address opposition, your tone(not insulting), being fair. Execellent proofreading. If paper has tooo many major mechanical errors (bad proofreading) the reader cannot reach your content and the paper can fail.
 Logos - your enthymeme, reasons, 1st paragraph, foundation for all that follows, grounds for evidence.
+

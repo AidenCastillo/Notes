@@ -1,3 +1,8 @@
+---
+aliases:
+dg-publish: true
+---
+
 Welcome to the Calculus Notes Repository! This is your go-to resource for learning and reviewing calculus concepts, from the basics to advanced topics. Organized for clarity and accessibility, this guide provides quick links to popular sections.
 
 ---

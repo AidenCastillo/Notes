@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 Used to approximate certain functional values with a surprisingly accurate degree. The differential refers to an infinitely small change in varying quantity. If x is a varialble, then a change in the value of x is denoted $\nabla x$ . The differential dx represents an infinitely small change in the variable x. It is possible to relate infinitely small changes of vairable variables to each other using derivatives. $$dy = \frac{dy}{dx}dx$$ where $dy/dx$ denotes not 'dy divided by dx' as one would read, but 'the derivative of y with respect to x'. This summarizes the idea that derivates of y with respect of x is the limit of the ratio of differences $\frac{\nabla y}{\nabla x}$ becomes infinitely small.
 
 Differential equations are equations that relate a function wiht its derivatives, often to model real world scenario like motino, heat, ppopulation

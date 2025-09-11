@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+[[DC Circuit 2]]
 * DC Circuits
 * AC Circuits
 * Electronic Circuits

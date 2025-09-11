@@ -1,1 +1,0 @@
-* Electronics Ready Reference manual
