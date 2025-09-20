@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 x can be viewed as m x n collection of scalars (not vector), where m is rows and n is column.
 can be written as $$m=[1,2,3,4]$$
 Elementss are denoted as $M_{i,j}$ wherer i is row ID and j is column

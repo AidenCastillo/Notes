@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 ## Significant Numbers
 When multiplying use the least count between the two numbers
 When adding or subtracting use only the amount common in both

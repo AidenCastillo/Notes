@@ -1,0 +1,78 @@
+- **Municipal Corporations**: Cities granted a corporate charter by the state, enabling self-governance of local affairs while subordinate to state law.
+- **City Charter**: A city’s “constitution,” outlining government structure, powers, and official authorities; critical for defining home rule autonomy.
+- **General Law Cities**:
+    - Population: <5,000.
+    - Charters: Choose from 7 state-provided charters; governed by Dillon’s Rule (must seek state approval for powers).
+    - Prevalence: 75% of Texas cities (e.g., small towns like Lockhart).
+- **Home Rule Cities**:
+    - Population: 5,000+.
+    - Powers: Create own charters; pass ordinances not conflicting with state law/constitution; use initiative, recall, referendum.
+    - Charter Amendments: Citizens can force a vote with a petition signed by 5% of qualified voters or 20,000 (whichever is less).
+    - Examples: Houston, San Antonio, Austin.
+- **Incorporation**:
+    - Process: Citizens petition the state; requires 201+ residents in a 2-mile² area, 10% registered voters, and 50% property owners signing; simple majority vote approves with defined boundaries.
+- **Extraterritorial Jurisdiction (ETJ)**:
+    - Definition: Area beyond city limits where cities regulate growth (e.g., zoning, construction).
+    - Range: 0.5 miles for general law cities; up to 5 miles for cities with 250,000+ population.
+    - Restriction: No incorporation within another city’s ETJ without approval.
+- **Annexation**:
+    - Purpose: Expands city boundaries to increase tax base, population, and political influence; prevents encirclement by other cities.
+    - Process: Cities annex ETJ land; requires 3-year notice, >50% voter approval, and >50% landowner signatures if voters own ≤50% of land.
+    - Example: San Antonio builds roads to annex northwest areas.
+- **Forms of Municipal Government**:
+    - **Council-Manager** (Most Common):
+        - Structure: Voters elect a small council (5-7 members) and mayor; council hires a professional city manager.
+        - Roles: Council/mayor set policy; manager handles administration, appoints department heads, manages budget.
+        - Features: Mayor is symbolic, votes as council equal; manager can be removed by council.
+        - Pros/Cons: Efficient but manager may ignore community or skew council information.
+        - Example: Dallas.
+    - **Strong Mayor-Council**:
+        - Mayor: Appoints/removes department heads, controls budget, no term limits, veto power.
+        - Example: Houston.
+    - **Weak Mayor-Council**:
+        - Mayor: Limited powers, shares authority with council/other officials, limited budget control, term limits, no veto.
+        - Example: San Antonio (Mayor Jones).
+    - **Commission (Galveston Plan)**:
+        - Structure: Voters elect department heads who form the council; no checks and balances.
+        - Issues: Risk of logrolling (favor-trading); voters may lack candidate expertise.
+        - Status: No Texas cities use this form today.
+    - **Mixed Systems**: Cities blend strong/weak mayor features (e.g., appoint heads but no veto).
+- **Election Types**:
+    - **At-Large Elections** (Most Common):
+        - **By Place**: Candidates file for specific ballot positions; voters choose one per position.
+        - **By Place with Residency Wards**: Candidates must live in designated areas.
+        - **No Place**: Voters select candidates for open seats (e.g., 5 seats, vote for 5 candidates).
+        - Issue: May overrepresent majority groups.
+    - **Single-Member District Elections**:
+        - Structure: City divided into equal-population districts; voters elect one representative per district.
+        - Impact: Increased minority representation post-Voting Rights Act (1965); Section 4 eliminated literacy tests.
+    - **Cumulative Voting**: Voters get votes equal to open seats (e.g., 5 seats = 5 votes); can allocate as desired.
+    - **Preferential Voting**: Instant runoff; voters rank candidates by preference.
+    - **Nonpartisan Elections**: No party labels; reformers argue parties irrelevant to local services (e.g., roads, police); partisanship persists informally.
+- **Voter Turnout Issues**:
+    - Low due to off-year elections (May vs. November), uncontested races, and limited media coverage.
+- **County Government**:
+    - Role: Arm of state; issues licenses (marriage, birth, vehicle), operates courts, jails, sheriff services, roads, hospitals, libraries, parks.
+    - Urban Counties: Add water, transit, fire, airports, building codes (e.g., Harris, Travis, Bexar).
+    - Commissioners Court: County judge (elected at-large, chairs court, votes) + 4 commissioners (single-member districts); 4-year terms; sets taxes, budgets, fills vacancies.
+    - Other Elected Officials:
+        - **Sheriff**: County-wide; manages jail, law enforcement; may act as tax collector.
+        - **County/District Attorney**: Prosecutes criminal cases; serves county and district courts.
+        - **Tax Collector**: Collects property taxes, vehicle licenses; acts as voter registrar.
+        - **District Clerk**: Manages property records, licenses, certificates.
+        - **Treasurer**: Handles county funds.
+        - **Auditor**: Oversees fund collection/disbursement; reports to district judges.
+    - Weaknesses: Plural executive structure; voter-elected officials may lack expertise; limited urban problem-solving (e.g., Harris County’s water/sewer consolidation).
+    - Suggestions: Home rule or local option charters (voter-approved).
+- **Special Districts**:
+    - Definition: “Shadow governments” for specific functions (e.g., water, sewer, education, libraries); 2,798 in Texas.
+    - Municipal Utility Districts (MUDs): Provide services outside cities where counties cannot; efficient but confusing to track.
+    - Funding: Many have taxation authority (e.g., property taxes).
+    - Example: Independent School Districts (ISDs) under Article VII; 7-member boards (at-large or single-member); set budgets, taxes, construction; superintendent as CEO.
+- **Revenue Sources**:
+    - **Sales Tax**: 6.25% state + up to 2% local (cities, counties, districts).
+    - **Property Tax (Ad Valorem)**: Primary for cities/counties.
+    - **Other**: Permits, fees, franchise, fines, interest, federal grants.
+    - **Revenue Bonds**: Borrow for projects; repaid by voters via taxes.
+- **Voting Rights Act (1965)**:
+    - Impact: Banned discriminatory practices (e.g., literacy tests); promoted single-member districts for equitable representation; increased minority council members.

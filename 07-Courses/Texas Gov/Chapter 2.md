@@ -73,4 +73,51 @@ After 1836 when texas was indpenednet of mexico, its consitution was composite o
 
 When Texas join US, it was still traditionalistic southern culture. Women could have property rights equal to men, women given half of value of all property aquired during marriage. Homestead protected from forced sale to pay debts. adopted by other staets later. (slavery was removed after civil war)
 
-White americans who participated in civil war list rigt to vote during 1869 consitution
+Reconstruction constitution called carpetbagger's constitution. Strong central government. represent departure from past and future documents. Abolished county courtsa nd removed local authority adn control from planter class. Public schools centralized under state and funed by poll tax and sale of public land. African Americans could vote, White americans who participated in civil war list rigt to vote during 1869 consitution
+
+### constitution of 1876
+men were landowners in the delegates constitutional convention of 1875. Restoration convention. anti governemnt instrument. too many texans had seen what gov could do and it was not for them. reflected anti gov sentiments. traditionalist and indidvidualist political culture of the state. restruct powers of legislature and governor
+
+## Sections of the Texas Constitution
+### Article 1: Bill of rights
+provides protection of freedom of speech, relgion, protects rights of accused. 
+equal rights inserted in 1982, equality on sex, race, color creed, natinal origin
+2021 voters prevent state from closing in person relgious services due to covid 19
+Simlar to US constitution
+### Articel 2: The powers of govenrment
+seperation of powers. separete checks and comparied to more implied structured. no person can exercise any power properly attached to either of the others. 
+### Article 3: Legislative department
+State legislature has two braches. Senate and house of representatives. senate 31 members. house 150.
+election system, terms of office members, required qualifications. meet every two years for 140 days. lays out significant deatauls of rules and procedures that must be followed. 
+compensation for legislatures $600 a month. 
+### Article 4: Executive department
+executive has governor, lieutenant gov, comptroller of public accounts, commissioner of general land office, attorney general. all elected
+secretaty of state apointed by govenmor. under article, sets annual salary of governor. term set to 4 years. establishes no term limits. right to call special session during which members can not consider any subject other than the pointing of electors at that special session.
+consistent with the history of lack of distruct of centrial power led to preference for limited government.
+### article 5: judicial department
+multi courts instead of single high court. Supreme court (8 justivces 1 cheif justice) and Court of Criminal Appeals (8 judges, 1 presiding judge). right to create additional courts. requirments for judges. (must be licensed in state)
+### additional articles
+(VI)can not vote if under 18 or mentally incompetent by court, convicted of felonies. focues on education and provides systemf of free public schools. funds promary secondary schoos(Art VII).establish state uni
+(IX and XVI) define creation of counties. 
+
+## Differences
+should ideally be brief and explicit. embody only general principles of government and provide broad outlines of government subject to interpretation.
+Good constitution serves to reinforce cultural expectations not sufficient in and of itself.
+Most state contitutions are lengthy some with over 400k+(alabama)
+Needs to be longer than US because nature of state responsibility
+State const have limited life span lasting average 95 years.
+Texas has been amended 507 times as of 2021
+Const has limits on how funds are spent. Taxes are earmarked for specific purposes. few constitutions prohibit deficit expendicurres unelss approved by voters in form of a bond electrion
+
+
+## Amending
+2 thirds of each house must promose amendments and majority of voters who vote on the amendment must approve it.
+Voter initialive is second way and it requires collection of a prescribed number of signatures on a petition within a set time. Texas does not have this. Republican party pushed idea for yeaers but in 1996 was dropped.
+Texas allows legislature ot submit to the voters the question of calling a constitutional convention to propose amendments. Normally used for general revisions and not single amendments. 
+State constitutionas amendned more than US. states have wider range of functions. 
+Voter turnout rates often pretty low in texas or are skewed. Ballot wording can confuse voters by misleading or not meaning ful if voter hasn't studied issue before. Most amendmens are not in the voters interests or needs. 
+## Constitutional criticism
+unclear and wordy, outdated.
+It is not wel organized even though it has a table of contence and index.
+It is not flexible and constanly changing seems contraditcory. Excessive details  that broad statements would allow wider use of interpreation.
+Texans would probbaly be insulted if you told them there needs ot be a revision.

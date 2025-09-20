@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Metric
 
 | Prefix          | Symbol | Power of 10   | Example                                    |     |

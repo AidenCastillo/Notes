@@ -10,10 +10,10 @@ Welcome to the Calculus Notes Repository! This is your go-to resource for learni
 ## 📚 **Table of Contents**
 
 ### 1. **Basics of Calculus**
-- [Limits](./Limits.md)
-- [Continuity](./Continuity.md)
-- [Derivatives](./Derivatives.md)
-- [Integrals](./Integrals.md)
+- [[Limits]]
+- [[./Basics/Continuity]]
+- [[Derivatives]]
+- [[Integrals]]
 
 ### 2. **Advanced Topics**
 - [Applications of Derivatives](./Advanced/Applications_of_Derivatives.md)

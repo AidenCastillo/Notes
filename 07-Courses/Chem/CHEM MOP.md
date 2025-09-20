@@ -15,18 +15,21 @@ Professor/Speaker::
 Tags::
 ## 📚 **Core Topics**
 
-### 1. **Circuits**
-* [[DC Circuits]]
-* [[DC Circuit 2]]
-* [[Intro to Electical Power]]
-### 2. **Mathematics**
-* [[Matrices]]
+### 1. **Foundations**
+* [[Foundations]]
+* [[Polyatomic Flashcards]]
+* [[Conversions]]
+### 2. **Acids and Bases**
+* [[Acids]]
+* [[Bases]]
+### 3. **Gas**
+* [[Unit 4]]
 ---
 # ❗ Topic
 
  
 ## 📦 Resources
-- 
+* 
 ## 🔑 Key Points
 - 
 ## ❓ Questions
@@ -40,4 +43,3 @@ Tags::
 ## 📃 Summary of Notes
 
 ## 📔 Books
- * Electronics Ready Reference manual
